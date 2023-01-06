@@ -1,0 +1,13 @@
+Package: rbioinfcookbook
+Type: Package
+Title: Data for the Packt Publication R Bioinformatics Cookbook (2nd Ed)
+Version: 0.0.0.9000
+Authors@R: person("Dan", "MacLean", email = "dan.maclean@tsl.ac.uk",
+  role = c("aut", "cre"))
+Description: This package provides easy access to the data required to run
+    the examples in the R Bioinformatics Cookbook (2nd Ed) by Dan MacLean 
+    published by Packt.
+Depends: R (> 4.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
