@@ -16,3 +16,15 @@
 #'
 #' @source www.modencode.org
 "pheno_data"
+
+#' modencode transcript data as an eset object for Chapter 6 recipe 1
+#'
+#' A count object typical in Bioconductor analyses of
+#' the modencodefly data from the NHGRI encyclopedia
+#' of DNA elements for Drosophila
+#'
+#' @format ## `who`
+#' A Large ExpressionSet object
+#'
+#' @source www.modencode.org
+"modencodefly.eset"
