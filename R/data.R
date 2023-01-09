@@ -10,6 +10,7 @@
 "count_dataframe"
 
 #' modencode phenotype data for Chapter 6 recipe 1
+#'
 #' @format ## `who`
 #' A data frame with 147 rows and 1 column
 #'
