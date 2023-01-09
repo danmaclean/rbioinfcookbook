@@ -28,3 +28,14 @@
 #'
 #' @source www.modencode.org
 "modencodefly.eset"
+
+#' arabidopsis mock and infection data matrix
+#'
+#' Matrix of 6 expression count data from arabidopsis leaves
+#' infected with P.syringae hrcC mutant or a mock infection
+#'
+#' @format ## `who`
+#' numeric matrix of 157332 elements in 6 columns and 26222 rows
+#'
+#' @source www.ncbi.nlm.nih.gov/geo/
+"arab_infection"
