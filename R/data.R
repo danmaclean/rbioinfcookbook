@@ -50,3 +50,14 @@
 #'
 #' @source www.ncbi.nlm.nih.gov/geo/
 "arab_infection.rse"
+
+#' arabidopsis transcription factor expression in seedling, root and flowers
+#'
+#' data frame of transcription factor expression levels in various arabidopsis
+#' tissues. Annotated with gene lengths and transcription factor families
+#'
+#' @format ## `who`
+#' dataframe with 55 columns and 29538 rows
+#'
+#' @source www.ebi.ac.uk/gxa/experiments/E-GEOD-53197/
+"at_tf_gex"
