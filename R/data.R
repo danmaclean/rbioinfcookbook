@@ -39,3 +39,14 @@
 #'
 #' @source www.ncbi.nlm.nih.gov/geo/
 "arab_infection"
+
+#' arabidopsis mock and infection RangedSummarizedExperiment
+#'
+#' RSE of 6 expression count data from arabidopsis leaves
+#' infected with P.syringae hrcC mutant or a mock infection
+#'
+#' @format ## `who`
+#' Large RangedSummarizedExperiment object
+#'
+#' @source www.ncbi.nlm.nih.gov/geo/
+"arab_infection.rse"
