@@ -17,7 +17,7 @@
 
 gencode_38_transcripts <- function(){
   url <- "https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/gencode.v38.pc_transcripts.fa.gz"
-  zip <- "gc33_transcripts.fa.gz"
+  zip <- "gc38_transcripts.fa.gz"
   download.file(url, destfile = zip)
   R.utils::gunzip(zip, overwrite=TRUE)
 }
