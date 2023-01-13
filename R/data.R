@@ -61,3 +61,13 @@
 #'
 #' @source www.ebi.ac.uk/gxa/experiments/E-GEOD-53197/
 "at_tf_gex"
+
+#' precomputed sgfc for Chapter 6 Recipe 5
+#'
+#' An SGFeatureCounts object that results from Chapter 6 Recipe 5 step 4
+#' but can take a very long time to compute.
+#'
+#' @format ## `who`
+#' SGFeatureCounts object
+#'
+"package_sgfc"
