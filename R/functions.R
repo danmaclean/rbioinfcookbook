@@ -46,6 +46,6 @@ chapter_6_recipe_3 <- function(){
 
 #' a function that exists only in the 'example_devtools_branch'
 #' @export
-function_from_branch <- function(){
-  "This function exists only to create a new branch to test devtools"
+function_from_PR <- function(){
+  "This function exists only to create a new PR to test devtools"
 }
