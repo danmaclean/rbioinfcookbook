@@ -71,3 +71,14 @@
 #' SGFeatureCounts object
 #'
 "package_sgfc"
+
+
+#' data frame of census data for Chapter 2 recipe 2
+#'
+#' readr parsed data from UK National Census 2021
+#'
+#' @format ## `who`
+#' dataframe with 365 rows and 24 columns
+#'
+#' @source https://www.ons.gov.uk/
+"census_df"
