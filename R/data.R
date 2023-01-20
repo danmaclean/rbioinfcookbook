@@ -82,3 +82,11 @@
 #'
 #' @source https://www.ons.gov.uk/
 "census_df"
+
+#' data frame of treatment data for Chapter 2 recipe 3
+#'
+#' made up treatment data to show splitting condensed columns
+#'
+#' @format ## `who`
+#' dataframe with 18 rows and 4 columns
+"treatments"
