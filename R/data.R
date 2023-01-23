@@ -90,3 +90,31 @@
 #' @format ## `who`
 #' dataframe with 18 rows and 4 columns
 "treatments"
+
+
+#' Gene expression values for ten M oryzae genes
+#'
+#' @format ## `who`
+#' dataframe with 10 rows and 1 column
+"mo_gene_exp"
+
+#' GO terms for M oryzae genes
+#'
+#' @format  ## `who`
+#' dataframe of 59619 rows and 5 columns
+#' @source http://fungi.ensembl.org
+"mo_terms"
+
+#' GO accession numbers for M oryzae genes
+#'
+#' @format ## `who`
+#' dataframe of 59619 rows and 2 columns
+#' @source http://fungi.ensembl.org
+"mo_go_acc"
+
+#' GO evidence codes for M oryzae genes
+#'
+#' @format ## `who`
+#' dataframe of 59619 rows and 4 columns
+#' @source http://fungi.ensembl.org
+"mo_go_evidence"
