@@ -127,3 +127,11 @@
 #'
 #' @source www.arabidipsis.org
 "ath_seq_names"
+
+#' gene expression data from fission yeast wt vs mut
+#'
+#' @format ## `who`
+#' dataframe of 7039 rows and 7 columns
+#'
+#' @source Leong et al 2014, Nat Commun. PMID: 24853205.
+"fission_ge"
