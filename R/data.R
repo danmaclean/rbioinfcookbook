@@ -135,3 +135,14 @@
 #'
 #' @source Leong et al 2014, Nat Commun. PMID: 24853205.
 "fission_ge"
+
+#' time series gene expression data for 100 genes
+#'
+#' genes from Arabidopsis challenged
+#' with flg22 over 12h
+#'
+#' @format ## `who`
+#' dataframe of 400 rows and 8 variables
+#'
+#' @source figshare.com/articles/dataset/NetSeekR_data/17447384
+"ath_ts"
