@@ -146,3 +146,15 @@
 #'
 #' @source figshare.com/articles/dataset/NetSeekR_data/17447384
 "ath_ts"
+
+#' allele frequency of SNPs in Arabidopsis
+#'
+#' dataset of Arabidopsis mutant SNP positions
+#' and SNP effect annotations, including alternate alleles,
+#' transition types and synonymous effects,
+#'
+#' @format ## `who`
+#' dataframe of 6463 rows and 13 columns
+#'
+#' @source https://plantmethods.biomedcentral.com/articles/10.1186/s13007-014-0041-7
+"allele_freqs"
