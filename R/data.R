@@ -62,6 +62,18 @@
 #' @source www.ebi.ac.uk/gxa/experiments/E-GEOD-53197/
 "at_tf_gex"
 
+#' arabidopsis transcription factor expression in seedling, root and flowers
+#'
+#' tidy format data frame of transcription factor expression levels in various arabidopsis
+#' tissues. Annotated with gene lengths and transcription factor families
+#'
+#' @format ## `who`
+#' dataframe with 7 columns and 73389 rows
+#'
+#' @source www.ebi.ac.uk/gxa/experiments/E-GEOD-53197/
+"at_tf_gex_tidy"
+
+
 #' precomputed sgfc for Chapter 6 Recipe 5
 #'
 #' An SGFeatureCounts object that results from Chapter 6 Recipe 5 step 4
