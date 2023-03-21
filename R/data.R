@@ -182,3 +182,12 @@
 #'
 #' @source "R"
 "plant_growth_two"
+
+#' model expression data
+#'
+#' dataframe of computer generated expression values
+#' for 6 genes, in three treatments with three replicates
+#'
+#' @format ## `who`
+#' dataframe of 54 rows and 4 columns
+"expression"
