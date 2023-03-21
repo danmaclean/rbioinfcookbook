@@ -170,3 +170,15 @@
 #'
 #' @source https://plantmethods.biomedcentral.com/articles/10.1186/s13007-014-0041-7
 "allele_freqs"
+
+#' plant growth data on two groups
+#'
+#' dataset of weight and treatement measurements
+#' derived from built-in PlantGrowth data with
+#' just control and trt1 data
+#'
+#' @format ## `who`
+#' dataframe of 20 rows and 10 columns
+#'
+#' @source "R"
+"plant_growth_two"
