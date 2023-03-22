@@ -201,3 +201,11 @@
 #' @format ## `who`
 #' dataframe of 32 rows and 3 columns
 "compost"
+
+#' model plant disease scoring data
+#'
+#' dataframe of disease score by strain and replicate
+#'
+#' @format ## `who`
+#' dataframe of 9 rows and 3 columns
+"disease_scores"
