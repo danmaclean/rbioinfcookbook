@@ -191,3 +191,13 @@
 #' @format ## `who`
 #' dataframe of 54 rows and 4 columns
 "expression"
+
+
+#' model compost and yield data
+#'
+#' dataframe of size by growth supplement and
+#' compost type in plant experiments
+#'
+#' @format ## `who`
+#' dataframe of 32 rows and 3 columns
+"compost"
