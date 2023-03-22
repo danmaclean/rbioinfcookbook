@@ -209,3 +209,16 @@
 #' @format ## `who`
 #' dataframe of 9 rows and 3 columns
 "disease_scores"
+
+#' Example tibble of side effect frequencies
+#'
+#' This tibble contains the frequency of side effects for three different treatments (regime_a, regime_b, and regime_c). Each row represents a different observation with three variables: the type of side effect experienced (\code{side_effect}), the treatment administered (\code{treatment}), and the frequency of the side effect (\code{frequency}).
+#'
+#' @format A tibble with 9 rows and 3 columns:
+#'   \describe{
+#'     \item{\code{side_effect}}{character: the type of side effect experienced (none, headache, or nausea)}
+#'     \item{\code{treatment}}{character: the treatment administered (regime_a, regime_b, or regime_c)}
+#'     \item{\code{frequency}}{numeric: the frequency of the side effect for the given treatment}
+#'   }
+"side_effects"
+
