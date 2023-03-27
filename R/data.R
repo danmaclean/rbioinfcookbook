@@ -222,3 +222,12 @@
 #'   }
 "side_effects"
 
+
+#' SNP positions in an 83 kb region of the human genome
+#'
+#' The dataframe contains the 64 SNP positions deliberately introduced into a read set
+#' by the wgsim program.
+#'
+#' @format ## `who`
+#' dataframe of 64 rows and 5 columns
+"snp_positions"
