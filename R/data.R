@@ -237,5 +237,13 @@
 #' A vector of 10 different gene symbols from the H.sapiens genome annotation
 #'
 #' @format ## `who`
+#' vector of 10 symbols
 #'
 "hu_gene_symbols"
+
+#' Gene ontology of Magnaporth oryzae
+#'
+#' A dataframe of Magnaporthe oryzae GO annotations
+#'
+#' @format a dataframe of 59619 rows and 6 columns
+"mo_go"
