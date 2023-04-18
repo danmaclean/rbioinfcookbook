@@ -231,3 +231,11 @@
 #' @format ## `who`
 #' dataframe of 64 rows and 5 columns
 "snp_positions"
+
+#' 10 human gene symbols
+#'
+#' A vector of 10 different gene symbols from the H.sapiens genome annotation
+#'
+#' @format ## `who`
+#'
+"hu_gene_symbols"
